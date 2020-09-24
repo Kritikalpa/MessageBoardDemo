@@ -6,7 +6,7 @@ namespace MessageBoard
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello master, this is your own message.");
+            Console.WriteLine("Hello demobranch, this is your own message.");
         }
     }
 }
