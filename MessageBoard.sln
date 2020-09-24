@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoard", "MessageBoard\MessageBoard.csproj", "{FD366BA4-08F4-43DE-B08E-5E19C8F8B73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD366BA4-08F4-43DE-B08E-5E19C8F8B73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD366BA4-08F4-43DE-B08E-5E19C8F8B73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD366BA4-08F4-43DE-B08E-5E19C8F8B73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD366BA4-08F4-43DE-B08E-5E19C8F8B73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8DCB3F1-CE6F-434C-BA06-C103585FEE42}
+	EndGlobalSection
+EndGlobal
